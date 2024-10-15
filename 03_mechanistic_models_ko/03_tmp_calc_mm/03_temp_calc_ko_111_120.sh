@@ -1,0 +1,10 @@
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/03_mechanistic_models_ko/03_mechanistic_models_ko.R 7010
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/03_mechanistic_models_ko/03_mechanistic_models_ko.R 8831
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/03_mechanistic_models_ko/03_mechanistic_models_ko.R 10681
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/03_mechanistic_models_ko/03_mechanistic_models_ko.R 2782
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/03_mechanistic_models_ko/03_mechanistic_models_ko.R 59345
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/03_mechanistic_models_ko/03_mechanistic_models_ko.R 7535
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/03_mechanistic_models_ko/03_mechanistic_models_ko.R 27040
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/03_mechanistic_models_ko/03_mechanistic_models_ko.R 5781
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/03_mechanistic_models_ko/03_mechanistic_models_ko.R 5322
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/03_mechanistic_models_ko/03_mechanistic_models_ko.R 8398

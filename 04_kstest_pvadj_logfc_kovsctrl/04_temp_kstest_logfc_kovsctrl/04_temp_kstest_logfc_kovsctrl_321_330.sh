@@ -1,0 +1,10 @@
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/04_kstest_pvadj_logfc_kovsctrl/04_kstest_pvadj_logfc_kovsctrl.R 3694
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/04_kstest_pvadj_logfc_kovsctrl/04_kstest_pvadj_logfc_kovsctrl.R 1441
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/04_kstest_pvadj_logfc_kovsctrl/04_kstest_pvadj_logfc_kovsctrl.R 2057
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/04_kstest_pvadj_logfc_kovsctrl/04_kstest_pvadj_logfc_kovsctrl.R 2690
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/04_kstest_pvadj_logfc_kovsctrl/04_kstest_pvadj_logfc_kovsctrl.R 3455
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/04_kstest_pvadj_logfc_kovsctrl/04_kstest_pvadj_logfc_kovsctrl.R 3559
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/04_kstest_pvadj_logfc_kovsctrl/04_kstest_pvadj_logfc_kovsctrl.R 3561
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/04_kstest_pvadj_logfc_kovsctrl/04_kstest_pvadj_logfc_kovsctrl.R 5618
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/04_kstest_pvadj_logfc_kovsctrl/04_kstest_pvadj_logfc_kovsctrl.R 9180
+Rscript /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/04_kstest_pvadj_logfc_kovsctrl/04_kstest_pvadj_logfc_kovsctrl.R 4602

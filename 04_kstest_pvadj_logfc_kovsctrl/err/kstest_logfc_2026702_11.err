@@ -1,0 +1,84 @@
+Warning message:
+In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+Warning messages:
+1: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+2: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+3: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+Warning message:
+In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+Warning messages:
+1: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+2: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+Warning messages:
+1: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+2: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+Warning messages:
+1: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+2: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+3: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+4: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+5: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+6: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+7: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+Warning message:
+In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+Warning message:
+In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+Warning message:
+In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+Warning messages:
+1: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+2: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+Warning message:
+In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+Warning messages:
+1: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+2: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+Warning message:
+In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+Warning messages:
+1: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+2: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+3: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+4: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+5: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+6: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+7: In ks.test.default(path_vals_ko[circ_belong_gene[k], samples], path_vals_control[circ_belong_gene[k],  :
+  p-value will be approximate in the presence of ties
+Error in gzfile(file, "rb") : cannot open the connection
+Calls: do.call ... FUN -> function_calc_ks_pvadj_logFC -> readRDS -> gzfile
+In addition: Warning message:
+In gzfile(file, "rb") :
+  cannot open compressed file '/mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/results/03_mechanistic_models_ko/path_vals_NA.rds', probable reason 'No such file or directory'
+Execution halted

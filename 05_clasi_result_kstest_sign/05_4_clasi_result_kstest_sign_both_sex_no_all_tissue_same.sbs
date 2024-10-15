@@ -1,0 +1,21 @@
+#! /bin/bash
+
+#SBATCH --job-name=clas_sign
+#SBATCH --mail-type=END
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --mem=20G
+#SBATCH --time=24:00:00
+#SBATCH --output=/mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/05_clasi_result_kstest_sign/out/clas_ks.test_sign_sex_%A_%a.out
+#SBATCH --error=/mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/05_clasi_result_kstest_sign/err/clas_ks.test_sign_sex_%A_%a.err
+#SBATCH --array=1-284%284
+#SBATCH --export=ALL
+######################
+# Begin work section #
+#####################
+
+eval "$(conda shell.bash hook)"
+conda activate my_r_environment
+
+$(head -${SLURM_ARRAY_TASK_ID} /mnt/lustre/scratch/CBRA/research/projects/rrdd_mm/code/05_clasi_result_kstest_sign/05_4_clasi_result_kstest_sign_both_sex_no_all_tissue_same.cmd | tail -1)
+
